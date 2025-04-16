@@ -42,5 +42,4 @@
 ![Image 11](TimeComplexity/images/11.png)
 ![Image 12](TimeComplexity/images/12.png)
 ![Image 13](TimeComplexity/images/13.png)
-![Image 14](TimeComplexity/images/14.png)
 
