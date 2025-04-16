@@ -4,6 +4,7 @@ This repository contains a complete collection of essential data structures impl
 
 ## 📁 Contents
 
+- Time Complexity
 - Arrays
 - Linked List
 - Stack
