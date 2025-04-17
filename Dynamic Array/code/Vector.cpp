@@ -1,6 +1,5 @@
 /**
  * @author: Ahmed Elshamy
- * @time: 18/04/2025  00:55 PM
  *
  * This program demonstrates the implementation of a dynamic vector with various operations
  * such as adding, removing, rotating, and finding elements. The Vector class allows flexibility
