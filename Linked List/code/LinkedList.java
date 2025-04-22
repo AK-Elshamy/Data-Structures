@@ -10,7 +10,7 @@ public class LinkedList {
         int data;
         Node prev;
         Node next;
-
+        
         public Node(int value) {
             this.data = value;
             this.prev = null;
