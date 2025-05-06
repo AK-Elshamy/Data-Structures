@@ -11,7 +11,6 @@ This repository contains a complete collection of essential data structures impl
 - Queue
 - Hash Table
 - Tree (Binary Tree, BST)
-- Graph (DFS, BFS)
 - Heap
 - Trie
 - Disjoint Set (Union-Find)
